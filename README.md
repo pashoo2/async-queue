@@ -9,4 +9,4 @@ E.g. you have two rival methods and they can not execute simultaneously, but it'
 
 In case you have a list of tasks which must be executed as one by one and not simultaneously then you could use ConcurrentAsyncQueue class.
 
-[Exports](docs/modules.md)
+[See docs](docs/modules.md)
