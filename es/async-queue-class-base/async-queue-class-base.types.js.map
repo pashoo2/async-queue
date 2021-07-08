@@ -1,1 +1,1 @@
-{"version":3,"file":"async-queue-class-base.types.js","sourceRoot":"","sources":["../../src/async-queue-class-base/async-queue-class-base.types.ts"],"names":[],"mappings":";;;AAgDA;IAqBE,8BAAsB,OAAoC;QAApC,YAAO,GAAP,OAAO,CAA6B;IAAG,CAAC;IAKhE,2BAAC;AAAD,CAAC,AA1BD,IA0BC;AA1BqB,oDAAoB"}
+{"version":3,"file":"async-queue-class-base.types.js","sourceRoot":"","sources":["../../src/async-queue-class-base/async-queue-class-base.types.ts"],"names":[],"mappings":";;;AAgDA,MAAsB,oBAAoB;IAqBxC,YAAsB,OAAoC;QAApC,YAAO,GAAP,OAAO,CAA6B;IAAG,CAAC;CAK/D;AA1BD,oDA0BC"}
