@@ -1,6 +1,6 @@
 {
   "name": "@pashoo2/async-queue",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An utility class for data serialization with an ability to serialize functions",
   "main": "es/index.js",
   "types": "es/index.d.ts",
