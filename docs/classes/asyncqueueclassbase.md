@@ -1,4 +1,4 @@
-[@pashoo2/serializer](../README.md) / [Exports](../modules.md) / AsyncQueueClassBase
+[@pashoo2/async-queue](../README.md) / [Exports](../modules.md) / AsyncQueueClassBase
 
 # Class: AsyncQueueClassBase
 
@@ -47,7 +47,7 @@
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.ts:20
+[async-queue-class-base/async-queue-class-base.ts:20](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.ts#L20)
 
 ## Properties
 
@@ -63,7 +63,7 @@ the currently executing batch of a promises
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.ts:18
+[async-queue-class-base/async-queue-class-base.ts:18](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.ts#L18)
 
 ___
 
@@ -89,7 +89,7 @@ queue of promises pending
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.ts:16
+[async-queue-class-base/async-queue-class-base.ts:16](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.ts#L16)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.ts:20
+[async-queue-class-base/async-queue-class-base.ts:20](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.ts#L20)
 
 ## Methods
 
@@ -133,7 +133,7 @@ async-queue-class-base/async-queue-class-base.ts:20
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.ts:43
+[async-queue-class-base/async-queue-class-base.ts:43](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.ts#L43)
 
 ___
 
@@ -159,7 +159,7 @@ ___
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.ts:86
+[async-queue-class-base/async-queue-class-base.ts:86](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.ts#L86)
 
 ▸ `Protected` **createPromise**<`T`\>(`promiseProvider`): `Promise`<(`Error` \| `T`)[]\>
 
@@ -181,7 +181,7 @@ async-queue-class-base/async-queue-class-base.ts:86
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.ts:87
+[async-queue-class-base/async-queue-class-base.ts:87](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.ts#L87)
 
 ___
 
@@ -213,7 +213,7 @@ resolve promises provided in queue
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.ts:32
+[async-queue-class-base/async-queue-class-base.ts:32](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.ts#L32)
 
 ___
 
@@ -239,7 +239,7 @@ promiseProvider is TAsyncQueueBaseClassPromiseProviderBatch<T\>
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.ts:81
+[async-queue-class-base/async-queue-class-base.ts:81](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.ts#L81)
 
 ___
 
@@ -253,4 +253,4 @@ ___
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.ts:59
+[async-queue-class-base/async-queue-class-base.ts:59](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.ts#L59)

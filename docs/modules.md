@@ -1,6 +1,6 @@
-[@pashoo2/serializer](README.md) / Exports
+[@pashoo2/async-queue](README.md) / Exports
 
-# @pashoo2/serializer
+# @pashoo2/async-queue
 
 ## Table of contents
 
@@ -51,7 +51,7 @@
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.types.ts:25
+[async-queue-class-base/async-queue-class-base.types.ts:25](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.types.ts#L25)
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.types.ts:27
+[async-queue-class-base/async-queue-class-base.types.ts:27](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.types.ts#L27)
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.types.ts:30
+[async-queue-class-base/async-queue-class-base.types.ts:30](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.types.ts#L30)
 
 ## Functions
 
@@ -110,7 +110,7 @@ async-queue-class-base/async-queue-class-base.types.ts:30
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent-mixins/async-queue-concurrent-mixin-default/async-queue-concurrent-mixin-default.ts:7
+[async-queue-concurrent/async-queue-concurrent-mixins/async-queue-concurrent-mixin-default/async-queue-concurrent-mixin-default.ts:7](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent-mixins/async-queue-concurrent-mixin-default/async-queue-concurrent-mixin-default.ts#L7)
 
 ___
 
@@ -149,7 +149,7 @@ ___
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent-mixins/async-queue-concurrent-mixin-default/async-queue-concurrent-mixin-default-decorator.ts:6
+[async-queue-concurrent/async-queue-concurrent-mixins/async-queue-concurrent-mixin-default/async-queue-concurrent-mixin-default-decorator.ts:6](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent-mixins/async-queue-concurrent-mixin-default/async-queue-concurrent-mixin-default-decorator.ts#L6)
 
 ___
 
@@ -187,4 +187,4 @@ ___
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.utils.ts:9
+[async-queue-class-base/async-queue-class-base.utils.ts:9](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.utils.ts#L9)

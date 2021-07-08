@@ -1,4 +1,4 @@
-[@pashoo2/serializer](../README.md) / [Exports](../modules.md) / ConcurrentAsyncQueueWithAutoExecution
+[@pashoo2/async-queue](../README.md) / [Exports](../modules.md) / ConcurrentAsyncQueueWithAutoExecution
 
 # Class: ConcurrentAsyncQueueWithAutoExecution<T, E\>
 
@@ -71,7 +71,7 @@
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent.ts:16
+[async-queue-concurrent/async-queue-concurrent.ts:16](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent.ts#L16)
 
 ## Properties
 
@@ -105,7 +105,7 @@ async-queue-concurrent/async-queue-concurrent.ts:16
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent.ts:60
+[async-queue-concurrent/async-queue-concurrent.ts:60](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent.ts#L60)
 
 ___
 
@@ -135,7 +135,7 @@ ___
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent.ts:64
+[async-queue-concurrent/async-queue-concurrent.ts:64](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent.ts#L64)
 
 ___
 
@@ -172,7 +172,7 @@ ___
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent.ts:82
+[async-queue-concurrent/async-queue-concurrent.ts:82](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent.ts#L82)
 
 ___
 
@@ -190,7 +190,7 @@ ___
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent.ts:55
+[async-queue-concurrent/async-queue-concurrent.ts:55](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent.ts#L55)
 
 ___
 
@@ -214,7 +214,7 @@ ___
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent.ts:75
+[async-queue-concurrent/async-queue-concurrent.ts:75](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent.ts#L75)
 
 ___
 
@@ -238,7 +238,7 @@ ___
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent.ts:97
+[async-queue-concurrent/async-queue-concurrent.ts:97](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent.ts#L97)
 
 ___
 
@@ -262,7 +262,7 @@ ___
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent.ts:93
+[async-queue-concurrent/async-queue-concurrent.ts:93](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent.ts#L93)
 
 ___
 
@@ -280,7 +280,7 @@ ___
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent.ts:101
+[async-queue-concurrent/async-queue-concurrent.ts:101](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent.ts#L101)
 
 ___
 
@@ -310,7 +310,7 @@ Destroy and fail all pending promise
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent.ts:44
+[async-queue-concurrent/async-queue-concurrent.ts:44](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent.ts#L44)
 
 ___
 
@@ -345,7 +345,7 @@ when the queue will come.
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent-extended/async-queue-concurrent-with-auto-execution/async-queue-concurrent-with-auto-execution.ts:13
+[async-queue-concurrent/async-queue-concurrent-extended/async-queue-concurrent-with-auto-execution/async-queue-concurrent-with-auto-execution.ts:13](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent-extended/async-queue-concurrent-with-auto-execution/async-queue-concurrent-with-auto-execution.ts#L13)
 
 ___
 
@@ -363,7 +363,7 @@ ___
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent.ts:113
+[async-queue-concurrent/async-queue-concurrent.ts:113](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent.ts#L113)
 
 ___
 
@@ -381,7 +381,7 @@ ___
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent.ts:105
+[async-queue-concurrent/async-queue-concurrent.ts:105](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent.ts#L105)
 
 ___
 
@@ -399,7 +399,7 @@ ___
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent.ts:109
+[async-queue-concurrent/async-queue-concurrent.ts:109](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent.ts#L109)
 
 ___
 
@@ -423,4 +423,4 @@ Wait till all previous jobs will be done
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent.ts:25
+[async-queue-concurrent/async-queue-concurrent.ts:25](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent.ts#L25)

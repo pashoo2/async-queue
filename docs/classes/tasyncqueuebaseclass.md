@@ -1,4 +1,4 @@
-[@pashoo2/serializer](../README.md) / [Exports](../modules.md) / TAsyncQueueBaseClass
+[@pashoo2/async-queue](../README.md) / [Exports](../modules.md) / TAsyncQueueBaseClass
 
 # Class: TAsyncQueueBaseClass
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.types.ts:68
+[async-queue-class-base/async-queue-class-base.types.ts:68](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.types.ts#L68)
 
 ## Properties
 
@@ -58,7 +58,7 @@ the currently executing batch of a promises
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.types.ts:68
+[async-queue-class-base/async-queue-class-base.types.ts:68](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.types.ts#L68)
 
 ___
 
@@ -80,7 +80,7 @@ queue of promises pending
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.types.ts:58
+[async-queue-class-base/async-queue-class-base.types.ts:58](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.types.ts#L58)
 
 ## Methods
 
@@ -112,4 +112,4 @@ resolve promises provided in queue
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.types.ts:72
+[async-queue-class-base/async-queue-class-base.types.ts:72](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.types.ts#L72)

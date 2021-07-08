@@ -1,4 +1,4 @@
-[@pashoo2/serializer](../README.md) / [Exports](../modules.md) / IAsyncQueueBaseClass
+[@pashoo2/async-queue](../README.md) / [Exports](../modules.md) / IAsyncQueueBaseClass
 
 # Interface: IAsyncQueueBaseClass
 
@@ -40,7 +40,7 @@ resolve promises provided in queue
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.types.ts:43
+[async-queue-class-base/async-queue-class-base.types.ts:43](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.types.ts#L43)
 
 ▸ **do**<`T`\>(`pending`): `Promise`<`Error` \| `T`\>
 
@@ -62,4 +62,4 @@ async-queue-class-base/async-queue-class-base.types.ts:43
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.types.ts:46
+[async-queue-class-base/async-queue-class-base.types.ts:46](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.types.ts#L46)

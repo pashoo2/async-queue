@@ -1,4 +1,4 @@
-[@pashoo2/serializer](../README.md) / [Exports](../modules.md) / IAsyncQueueBaseClassOptions
+[@pashoo2/async-queue](../README.md) / [Exports](../modules.md) / IAsyncQueueBaseClassOptions
 
 # Interface: IAsyncQueueBaseClassOptions
 
@@ -22,7 +22,7 @@ a number of promises in one batch
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.types.ts:8
+[async-queue-class-base/async-queue-class-base.types.ts:8](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.types.ts#L8)
 
 ___
 
@@ -36,7 +36,7 @@ a delay between executing of a two batches
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.types.ts:22
+[async-queue-class-base/async-queue-class-base.types.ts:22](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.types.ts#L22)
 
 ___
 
@@ -50,4 +50,4 @@ timeout for a one batch
 
 #### Defined in
 
-async-queue-class-base/async-queue-class-base.types.ts:15
+[async-queue-class-base/async-queue-class-base.types.ts:15](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-class-base/async-queue-class-base.types.ts#L15)

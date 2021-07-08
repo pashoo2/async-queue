@@ -1,4 +1,4 @@
-[@pashoo2/serializer](../README.md) / [Exports](../modules.md) / IAsyncQueueConcurrentWithAutoExecution
+[@pashoo2/async-queue](../README.md) / [Exports](../modules.md) / IAsyncQueueConcurrentWithAutoExecution
 
 # Interface: IAsyncQueueConcurrentWithAutoExecution<T, E\>
 
@@ -53,7 +53,7 @@ IAsyncQueueConcurrent.destroy
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent.types.ts:31
+[async-queue-concurrent/async-queue-concurrent.types.ts:31](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent.types.ts#L31)
 
 ___
 
@@ -86,7 +86,7 @@ when the queue will come.
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent-extended/async-queue-concurrent-with-auto-execution/async-queue-concurrent-with-auto-execution.types.ts:16
+[async-queue-concurrent/async-queue-concurrent-extended/async-queue-concurrent-with-auto-execution/async-queue-concurrent-with-auto-execution.types.ts:16](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent-extended/async-queue-concurrent-with-auto-execution/async-queue-concurrent-with-auto-execution.types.ts#L16)
 
 ___
 
@@ -108,4 +108,4 @@ IAsyncQueueConcurrent.wait
 
 #### Defined in
 
-async-queue-concurrent/async-queue-concurrent.types.ts:23
+[async-queue-concurrent/async-queue-concurrent.types.ts:23](https://github.com/pashoo2/async-queue/blob/d250c8e/src/async-queue-concurrent/async-queue-concurrent.types.ts#L23)
